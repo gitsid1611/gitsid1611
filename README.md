@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **sudhirshukla1611@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GLplt5Fk3UDvZen-Mp508x8GElvLuL4o/view?usp=sharing](https://drive.google.com/file/d/1GLplt5Fk3UDvZen-Mp508x8GElvLuL4o/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://github.com/gitsid1611/Resume/blob/main/Sudhirkumar_Shukla_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
