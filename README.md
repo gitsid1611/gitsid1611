@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://gitsid1611.github.io/](https://gitsid1611.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://gitsid1611.github.io/)
 
 - 💬 Ask me about **Java |Javascript**
 
