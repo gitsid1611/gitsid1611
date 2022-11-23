@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://gitsid1611.github.io/)
 
-- 💬 Ask me about **Java |Javascript**
+- 💬 Ask me about **Java | Javascript | HTML | CSS**
 
 - 📫 How to reach me **sudhirshukla1611@gmail.com**
 
